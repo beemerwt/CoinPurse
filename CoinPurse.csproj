@@ -18,10 +18,13 @@
   <ItemGroup>
     <Compile Remove="Assets\**" />
     <Compile Remove="libraries\**" />
+    <Compile Remove="releases\**" />
     <EmbeddedResource Remove="Assets\**" />
     <EmbeddedResource Remove="libraries\**" />
+    <EmbeddedResource Remove="releases\**" />
     <None Remove="Assets\**" />
     <None Remove="libraries\**" />
+    <None Remove="releases\**" />
   </ItemGroup>
 
   <ItemGroup>
