@@ -16,7 +16,7 @@ namespace CoinPurse
     {
         public const string CoinPurseGuid = "com.github.beemerwt.coinpurse";
 		public const string CoinPurseName = "CoinPurse";
-		public const string CoinPurseVersion = "1.0.0";
+		public const string CoinPurseVersion = "1.0.1";
 
 		public static new ManualLogSource Logger;
 
