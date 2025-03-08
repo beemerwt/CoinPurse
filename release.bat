@@ -6,7 +6,7 @@ set "DLL_PATH=bin\Debug\net462\CoinPurse.dll"
 set "TEMP_DIR=CoinPurse"
 set "DLL_TEMP=CoinPurse.dll"
 
-set "ZIP_FILE=CoinPurse-1.0.0.zip"
+set "ZIP_FILE=CoinPurse-1.0.1.zip"
 
 :: Make necessary directories
 if not exist "%TEMP_DIR%" mkdir "%TEMP_DIR%"
