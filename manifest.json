@@ -1,0 +1,9 @@
+{
+  "name": "Coin_Purse",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/beemerwt/CoinPurse",
+  "description": "Get those pesky valuables out of your inventory!",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.24.2"
+  ]
+}
