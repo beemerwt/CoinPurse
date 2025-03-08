@@ -7,6 +7,8 @@ Get those pesky valuables out of your inventory!
 - Usable at vendors to buy items.
 - No configuration. Just plug and play!
 
+![Ingame Image](ingame.png)
+
 ## Installation
 The easiest way to install is to use the provided mod manager on Thunderstore.
 

@@ -1,4 +1,4 @@
-set "FILES=manifest.json icon.png README.md"
+set "FILES=manifest.json icon.png README.md ingame.png"
 set "RELEASE_DIR=releases"
 set "ASSETS_DIR=Assets"
 set "DLL_PATH=bin\Debug\net462\CoinPurse.dll"
